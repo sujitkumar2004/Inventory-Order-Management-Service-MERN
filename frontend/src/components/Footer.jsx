@@ -9,9 +9,9 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-  Krishna Kumar<br />
-  Natwar, Ambika Market, Near PNB Bank<br />
-  Rohtas, Bihar (802218)<br /><br />
+  Krixxna Kumar<br />
+  Natxxr, Ambxxa Market, Near PNB Bank<br />
+  Rohtas, Bihar (8022xx)<br /><br />
   
 </p>
 
@@ -30,8 +30,8 @@ const Footer = () => {
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
-                <li>+91 8873833600</li>
-                <li>krishnavastralaya@gmail.com</li>
+                <li>+91 887383xxxx</li>
+                <li>krixxxxvastralaya@gmail.com</li>
             </ul>
         </div>
 
